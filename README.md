@@ -3,6 +3,5 @@
 </div>
 
 ```diff
-+ this text is highlighted in green
-- this text is highlighted in red
++ <h1>this text is highlighted in green</h1>
 ```
