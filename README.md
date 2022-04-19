@@ -1,3 +1,3 @@
-<div style="color: green"> 
-  <h2>Welcome to my github profile</h2> 
+<div style="color: green;"> 
+  Welcome to my github profile
 </div>
