@@ -2,4 +2,7 @@
   Welcome to my github profile
 </div>
 
-<span style="color:blue">some *This is Blue italic.* text</span>
+```diff
++ this text is highlighted in green
+- this text is highlighted in red
+```
