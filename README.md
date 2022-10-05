@@ -7,3 +7,7 @@ connect with me on linkedin at https://www.linkedin.com/in/kevincjhung/
 <br>
 <h2>Academics</h2>
 <p>Under Construction</p>        
+
+
+<h2>Technologies I know</h2>
+<p>Under Construction</p>        
