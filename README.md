@@ -1,10 +1,14 @@
 
 ## About Me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
+Helloo, I'm Kevin
+
 <b>Connect With Me</b>
 <a href="https://www.linkedin.com/in/kevincjhung/">
     ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
+
+---
 
 ## Some of my past projects
 
@@ -17,11 +21,11 @@
     A mood-tracker application with CRUD functionalities,
     built using Express for backend, MySQL as the database and React for front end.
 </div>
-<div style="margin-bottom: 1rem; text-align: center">
-    <a href="https://" style="color: green;">
+<div style="margin-bottom" align="center">
+    <a href="https://github.com/kevincjhung/Mood_Tracker_Express" style="color: green;">
         <ins>Click here to see the code</ins>
     </a><br>
-    <a href="https://" style="color: green;">
+    <a href="https://moodtrackerexpress-production.up.railway.app/" style="color: green;">
         <ins>Click here to see the app</ins>
     </a>
 </div><br>
@@ -33,11 +37,11 @@
 <div style="margin-top: 2px; margin-bottom: 5px;">
  A social media-like application that allows users to post code snippets. It is built with Next.js, Prisma with a cloud PostgreSQL database for data persistence, NextAuth for authentication and hosted on Vercel.
 </div>
-<div style="text-align: center">
-    <a href="https://" style="color: green;">
+<div style="" align="center">
+    <a href="https://github.com/kevincjhung/Code_Snippets_App" style="color: green;">
         <ins>Click here to see the code</ins>
     </a><br>
-    <a href="https://" style="color: green;">
+    <a href="https://code-examples-app-kevincjhung.vercel.app/" style="color: green;">
         <ins>Click here to see the app</ins>
     </a>
 </div><br>
@@ -49,7 +53,7 @@
 <div style="margin-top: 2px; ">
   First Maps is an interactive resource for indigenous community members and the general public to establish and strengthen connections in the spheres of culture, art and tourism. It was built with Next.js, Mongoose with MongoDB for data persistence, uses Google NextAuth, and hosted on Vercel.
 </div><br>
-<div style="text-align: center">
+<div align="center">
     <a href="https://github.com/First-Maps/first-maps" style="color: green;">
         <ins>Click here to see the code</ins>
     </a><br>
@@ -59,9 +63,9 @@
 </div><br><br>
 
 
+---
 
-
-## Some of the technologies I use 
+## Some of the technologies I use 🛠️
 
 
 ### Languages
