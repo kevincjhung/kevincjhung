@@ -3,10 +3,7 @@
 
 Helloo, I'm Kevin
 
-<b>Connect With Me</b>
-<a href="https://www.linkedin.com/in/kevincjhung/">
-    ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-</a>
+<b>Connect With Me on <a href="https://www.linkedin.com/in/kevincjhung/">LinkedIn</b></a>
 
 ---
 
