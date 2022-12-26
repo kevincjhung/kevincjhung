@@ -24,7 +24,7 @@
     <a href="https://" style="color: green;">
         <ins>Click here to see the app</ins>
     </a>
-</div>
+</div><br>
 <b>
     <a href="">
         Code Examples Application:
@@ -33,30 +33,30 @@
 <div style="margin-top: 2px; margin-bottom: 5px;">
  A social media-like application that allows users to post code snippets. It is built with Next.js, Prisma with a cloud PostgreSQL database for data persistence, NextAuth for authentication and hosted on Vercel.
 </div>
-<div style="margin-bottom: 1rem; text-align: center">
+<div style="text-align: center">
     <a href="https://" style="color: green;">
         <ins>Click here to see the code</ins>
     </a><br>
     <a href="https://" style="color: green;">
         <ins>Click here to see the app</ins>
     </a>
-</div>
+</div><br>
 <b>
     <a href="">
         First-Maps:
     </a>
 </b>
-<div style="margin-top: 2px; margin-bottom: 5px;">
+<div style="margin-top: 2px; ">
   First Maps is an interactive resource for indigenous community members and the general public to establish and strengthen connections in the spheres of culture, art and tourism. It was built with Next.js, Mongoose with MongoDB for data persistence, uses Google NextAuth, and hosted on Vercel.
-</div>
-<div style="margin-bottom: 1rem; text-align: center">
+</div><br>
+<div style="text-align: center">
     <a href="https://github.com/First-Maps/first-maps" style="color: green;">
         <ins>Click here to see the code</ins>
     </a><br>
     <a href="https://www.firstmaps.online/" style="color: green;">
         <ins>Click here to see the app</ins>
     </a>
-</div>
+</div><br><br>
 
 
 
