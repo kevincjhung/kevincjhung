@@ -9,36 +9,52 @@
 ## Some of my past projects
 
 <b>
-    <a href="">Mood Tracker Application:</a>
-</b>
-A mood-tracker application with CRUD functionalities, built using Express for backend, MySQL as the database and React for front end. <br>
-<div style="text-align: center">
     <a href="">
-        <button class="button minimal" style="background-color: #0c4a6e; color: #f3f4f6; height: 27px; border-radius: 1px; letter-spacing: 0.1rem; border: none; margin-top: 5px;">
-            SEE THE CODE
-        </button>
+        Mood Tracker Application:
     </a>
-    <a href="">
-        <button class="button minimal" style="background-color: #f97316; color: #f3f4f6; height: 27px; border-radius: 1px; letter-spacing: 0.1rem; border: none;">
-        SEE THE APP
-    </button>
+</b>
+<div style="margin-top: 2px; margin-bottom: 5px;">
+    A mood-tracker application with CRUD functionalities,
+    built using Express for backend, MySQL as the database and React for front end.
+</div>
+<div style="margin-bottom: 1rem; text-align: center">
+    <a href="https://" style="color: green;">
+        <ins>Click here to see the code</ins>
+    </a><br>
+    <a href="https://" style="color: green;">
+        <ins>Click here to see the app</ins>
     </a>
 </div>
-
 <b>
-    <a href="">Code Examples Application:</a>
-</b><br/>
-A social media-like application that allows users to post code snippets. It is built with Next.js, Prisma with a cloud PostgreSQL database for data persistence, NextAuth for authentication and hosted on Vercel.
-<div style="text-align: center">
-    <a href="https://github.com/kevincjhung/Code_Snippets_App">
-        <button class="button minimal" style="background-color: #0c4a6e; color: #f3f4f6; height: 27px; border-radius: 1px; letter-spacing: 0.1rem; border: none; margin-top: 5px;">
-            GO TO THE CODE
-        </button>
+    <a href="">
+        Code Examples Application:
     </a>
-    <a href="https://code-examples-app-kevincjhung.vercel.app/">
-        <button class="button minimal" style="background-color: #f97316; color: #f3f4f6; height: 27px; border-radius: 1px; letter-spacing: 0.1rem; border: none;">
-            GO TO THE APP
-        </button>
+</b>
+<div style="margin-top: 2px; margin-bottom: 5px;">
+ A social media-like application that allows users to post code snippets. It is built with Next.js, Prisma with a cloud PostgreSQL database for data persistence, NextAuth for authentication and hosted on Vercel.
+</div>
+<div style="margin-bottom: 1rem; text-align: center">
+    <a href="https://" style="color: green;">
+        <ins>Click here to see the code</ins>
+    </a><br>
+    <a href="https://" style="color: green;">
+        <ins>Click here to see the app</ins>
+    </a>
+</div>
+<b>
+    <a href="">
+        First-Maps:
+    </a>
+</b>
+<div style="margin-top: 2px; margin-bottom: 5px;">
+  First Maps is an interactive resource for indigenous community members and the general public to establish and strengthen connections in the spheres of culture, art and tourism. It was built with Next.js, Mongoose with MongoDB for data persistence, uses Google NextAuth, and hosted on Vercel.
+</div>
+<div style="margin-bottom: 1rem; text-align: center">
+    <a href="https://github.com/First-Maps/first-maps" style="color: green;">
+        <ins>Click here to see the code</ins>
+    </a><br>
+    <a href="https://www.firstmaps.online/" style="color: green;">
+        <ins>Click here to see the app</ins>
     </a>
 </div>
 
