@@ -1,7 +1,7 @@
 
 ## About Me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
-Helloo, I'm Kevin. 
+Hello, I'm Kevin. <br>
 I am a full stack developer based in Vancouver, Canada. 📍
 
 <b>Connect With Me on <a href="https://www.linkedin.com/in/kevincjhung/">LinkedIn</b></a>
