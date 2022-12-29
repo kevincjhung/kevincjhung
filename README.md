@@ -1,17 +1,16 @@
 
 ## About Me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
-Helloo, I'm Kevin. 
-I am a full stack developer based in Vancouver, Canada. 📍
+Hello, I'm Kevin, a full stack developer based in Vancouver, Canada. 📍
 
-<b>Connect With Me on <a href="https://www.linkedin.com/in/kevincjhung/">LinkedIn</b></a>
+<b>Connect With Me on <a href="https://www.linkedin.com/in/kevincjhung/">LinkedIn</a></b>
 
 ---
 
 ## Some of my past projects
 
 <b>
-    <a href="">
+    <a href="https://moodtrackerexpress-production.up.railway.app/">
         Mood Tracker Application:
     </a>
 </b>
@@ -28,7 +27,7 @@ I am a full stack developer based in Vancouver, Canada. 📍
     </a>
 </div><br>
 <b>
-    <a href="">
+    <a href="https://code-examples-app-kevincjhung.vercel.app/">
         Code Examples Application:
     </a>
 </b>
@@ -44,12 +43,12 @@ I am a full stack developer based in Vancouver, Canada. 📍
     </a>
 </div><br>
 <b>
-    <a href="">
+    <a href="https://www.firstmaps.online/">
         First-Maps:
     </a>
 </b>
 <div style="margin-top: 2px; ">
-  First Maps is an interactive resource for indigenous community members and the general public to establish and strengthen connections in the spheres of culture, art and tourism. It was built with Next.js, Mongoose with MongoDB for data persistence, uses Google NextAuth, and hosted on Vercel.
+  First Maps is an interactive map built for indigenous community members and the general public to establish and strengthen connections in the spheres of culture, art and tourism. It was built with Next.js, Mongoose with MongoDB for data persistence, uses Google NextAuth, and hosted on Vercel.
 </div><br>
 <div align="center">
     <a href="https://github.com/First-Maps/first-maps" style="color: green;">
@@ -64,7 +63,6 @@ I am a full stack developer based in Vancouver, Canada. 📍
 ---
 
 ## Some of the technologies I use 🛠️
-
 
 ### Languages
 
