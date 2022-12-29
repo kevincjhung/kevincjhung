@@ -15,7 +15,7 @@ Hello, I'm Kevin, a full stack developer based in Vancouver, Canada. 📍
 </b>
 <div style="margin-top: 2px; ">
   First Maps is an interactive map built for indigenous community members and the general public to establish and strengthen connections in the spheres of culture, art and tourism. It was built with Next.js, Mongoose with MongoDB for data persistence, uses Google NextAuth, and hosted on Vercel.
-</div><br>
+</div>
 <div align="center">
     <a href="https://github.com/First-Maps/first-maps" style="color: green;">
         <ins>Click here to see the code</ins>
