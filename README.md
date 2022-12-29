@@ -8,6 +8,40 @@ Hello, I'm Kevin, a full stack developer based in Vancouver, Canada. 📍
 ---
 
 ## Some of my past projects
+<b>
+    <a href="https://www.firstmaps.online/">
+        First-Maps:
+    </a>
+</b>
+<div style="margin-top: 2px; ">
+  First Maps is an interactive map built for indigenous community members and the general public to establish and strengthen connections in the spheres of culture, art and tourism. It was built with Next.js, Mongoose with MongoDB for data persistence, uses Google NextAuth, and hosted on Vercel.
+</div><br>
+<div align="center">
+    <a href="https://github.com/First-Maps/first-maps" style="color: green;">
+        <ins>Click here to see the code</ins>
+    </a><br>
+    <a href="https://www.firstmaps.online/" style="color: green;">
+        <ins>Click here to see the app</ins>
+    </a>
+</div><br>
+
+<b>
+    <a href="https://code-examples-app-kevincjhung.vercel.app/">
+        Code Examples Application:
+    </a>
+</b>
+<div style="margin-top: 2px; margin-bottom: 5px;">
+ A social media-like application that allows users to post code snippets. It is built with Next.js, Prisma with a cloud PostgreSQL database for data persistence, NextAuth for authentication and hosted on Vercel.
+</div>
+<div style="" align="center">
+    <a href="https://github.com/kevincjhung/Code_Snippets_App" style="color: green;">
+        <ins>Click here to see the code</ins>
+    </a><br>
+    <a href="https://code-examples-app-kevincjhung.vercel.app/" style="color: green;">
+        <ins>Click here to see the app</ins>
+    </a>
+</div><br>
+
 
 <b>
     <a href="https://moodtrackerexpress-production.up.railway.app/">
@@ -25,39 +59,8 @@ Hello, I'm Kevin, a full stack developer based in Vancouver, Canada. 📍
     <a href="https://moodtrackerexpress-production.up.railway.app/" style="color: green;">
         <ins>Click here to see the app</ins>
     </a>
-</div><br>
-<b>
-    <a href="https://code-examples-app-kevincjhung.vercel.app/">
-        Code Examples Application:
-    </a>
-</b>
-<div style="margin-top: 2px; margin-bottom: 5px;">
- A social media-like application that allows users to post code snippets. It is built with Next.js, Prisma with a cloud PostgreSQL database for data persistence, NextAuth for authentication and hosted on Vercel.
-</div>
-<div style="" align="center">
-    <a href="https://github.com/kevincjhung/Code_Snippets_App" style="color: green;">
-        <ins>Click here to see the code</ins>
-    </a><br>
-    <a href="https://code-examples-app-kevincjhung.vercel.app/" style="color: green;">
-        <ins>Click here to see the app</ins>
-    </a>
-</div><br>
-<b>
-    <a href="https://www.firstmaps.online/">
-        First-Maps:
-    </a>
-</b>
-<div style="margin-top: 2px; ">
-  First Maps is an interactive map built for indigenous community members and the general public to establish and strengthen connections in the spheres of culture, art and tourism. It was built with Next.js, Mongoose with MongoDB for data persistence, uses Google NextAuth, and hosted on Vercel.
-</div><br>
-<div align="center">
-    <a href="https://github.com/First-Maps/first-maps" style="color: green;">
-        <ins>Click here to see the code</ins>
-    </a><br>
-    <a href="https://www.firstmaps.online/" style="color: green;">
-        <ins>Click here to see the app</ins>
-    </a>
 </div><br><br>
+
 
 
 ---
