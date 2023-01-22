@@ -1,9 +1,14 @@
 
 ## About Me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
-Hello, I'm Kevin, a full stack developer based in Vancouver, Canada. 📍
+Hello, my name is Kevin, I am a full stack developer based in Vancouver, Canada. 📍<br>
+I enjoy learning new technologies and building things. 
+Currently, I am learning PyTorch and machine learning for fun. I am also building an application to track my fitness progress, suggest weight adjustments, and visuzlize my progress.<br><br>
 
-<b>Connect With Me on <a href="https://www.linkedin.com/in/kevincjhung/">LinkedIn</a></b>
+> My personal motto: <b>"It's only a big deal until you accomplish it"</b>
+<br>
+
+<b>I invite you to connect With Me on <a href="https://www.linkedin.com/in/kevincjhung/">LinkedIn</a></b>
 
 ---
 
@@ -42,6 +47,19 @@ Hello, I'm Kevin, a full stack developer based in Vancouver, Canada. 📍
     </a>
 </div><br>
 
+<b>
+    <a href=>
+        JSON API: Node.js & Express 
+    </a>
+</b>
+<div style="margin-top: 2px; margin-bottom: 5px;">
+    A JSON api written with Node.js and Express that connects to a local MySQL database. It includes unit tests written with Supertest and Jest.
+</div>
+<div style="margin-bottom" align="center">
+    <a href="https://github.com/kevincjhung/JSON_API" style="color: green;">
+        <ins>Click here to see the code</ins>
+    </a><br>
+</div><br>
 
 <b>
     <a href="https://moodtrackerexpress-production.up.railway.app/">
