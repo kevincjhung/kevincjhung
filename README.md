@@ -2,7 +2,7 @@
 ## About Me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 Hello, my name is Kevin, I am a full stack developer based in Vancouver, Canada. 📍<br>
-I enjoy learning new technologies and building things. 
+I enjoy learning new technologies and building interesting projects. <br>
 Currently, I am learning PyTorch and machine learning for fun. I am also building an application to track my fitness progress, suggest weight adjustments, and visuzlize my progress.<br><br>
 
 > My personal motto: <b>"It's only a big deal until you accomplish it"</b>
