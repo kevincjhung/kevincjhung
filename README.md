@@ -8,7 +8,7 @@ Currently, I am learning PyTorch and machine learning for fun. I am also buildin
 > My personal motto: <b>"It's only a big deal until you accomplish it"</b>
 <br>
 
-<b>You are invited to connect With Me on <a href="https://www.linkedin.com/in/kevincjhung/">LinkedIn</a></b>
+<b>You are invited to connect with me on <a href="https://www.linkedin.com/in/kevincjhung/">LinkedIn</a></b>
 
 ---
 
