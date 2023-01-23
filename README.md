@@ -49,7 +49,7 @@ Currently, I am learning PyTorch and machine learning for fun. I am also buildin
 
 <b>
     <a href=>
-        JSON API: Node.js & Express 
+        JSON API: Node.js, Express and MySQL
     </a>
 </b>
 <div style="margin-top: 2px; margin-bottom: 5px;">
