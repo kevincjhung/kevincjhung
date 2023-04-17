@@ -47,37 +47,8 @@ Currently, I am learning PyTorch and machine learning for fun. I am also buildin
     </a>
 </div><br>
 
-<b>
-    <a href=>
-        JSON API: Node.js, Express and MySQL
-    </a>
-</b>
-<div style="margin-top: 2px; margin-bottom: 5px;">
-    A JSON api written with Node.js and Express that connects to a local MySQL database. It includes unit tests written with Supertest and Jest.
-</div>
-<div style="margin-bottom" align="center">
-    <a href="https://github.com/kevincjhung/JSON_API" style="color: green;">
-        <ins>Click here to see the code</ins>
-    </a><br>
-</div><br>
 
-<b>
-    <a href="https://moodtrackerexpress-production.up.railway.app/">
-        Mood Tracker Application:
-    </a>
-</b>
-<div style="margin-top: 2px; margin-bottom: 5px;">
-    A mood-tracker application with CRUD functionalities,
-    built using Express for backend, MySQL as the database and React for front end.
-</div>
-<div style="margin-bottom" align="center">
-    <a href="https://github.com/kevincjhung/Mood_Tracker_Express" style="color: green;">
-        <ins>Click here to see the code</ins>
-    </a><br>
-    <a href="https://moodtrackerexpress-production.up.railway.app/" style="color: green;">
-        <ins>Click here to see the app</ins>
-    </a>
-</div><br><br>
+<br><br>
 
 
 
