@@ -3,7 +3,6 @@
 
 Hello, my name is Kevin, I am a full stack developer based in Vancouver, Canada. 📍<br>
 I enjoy learning new technologies and building interesting projects. <br>
-Currently, I am learning PyTorch and machine learning for fun. I am also building an application to track my fitness progress, suggest program adjustments, and visualize my progress.<br><br>
 
 > My personal motto: <b>"It's only a big deal until you accomplish it"</b>
 <br>
@@ -91,8 +90,4 @@ Currently, I am learning PyTorch and machine learning for fun. I am also buildin
 ### Other
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-
-### Currently Learning
-
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
