@@ -25,8 +25,8 @@ I enjoy learning new technologies and building interesting projects. <br>
     <a href="https://github.com/kevincjhung/Concord_SignalR_Chat_App" style="color: green;">
         <ins>Click here to see the code</ins>
     </a><br>
-    <a href="https://github.com/kevincjhung/Concord_SignalR_Chat_App" style="color: gray;">
-        <ins>App Deployment Coming Soon</ins>
+    <a href="https://github.com/kevincjhung/Concord_SignalR_Chat_App" style="color: black;">
+        <p>App Deployment Coming Soon</p>
     </a><br>
   
 </div><br>
