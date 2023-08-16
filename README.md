@@ -12,6 +12,40 @@ I enjoy learning new technologies and building interesting projects. <br>
 ---
 
 ## Some of my past projects
+
+<b>
+    <a href="https://github.com/kevincjhung/Concord_SignalR_Chat_App">
+      Concord - Realtime Chat App With SignalR and React:
+    </a>
+</b>
+<div style="margin-top: 2px; ">
+ A real-time chat application designed to showcase modern web technologies and foster efficient communication and collaboration among users. Developed with React, Vite, and TypeScript.
+</div>
+<div align="center">
+    <a href="https://github.com/kevincjhung/Concord_SignalR_Chat_App" style="color: green;">
+        <ins>Click here to see the code</ins>
+    </a><br>
+    <a href="https://github.com/kevincjhung/Concord_SignalR_Chat_App" style="color: gray;">
+        <ins>App Deployment Coming Soon</ins>
+    </a><br>
+  
+</div><br>
+<b>
+    <a href="https://movieflix-discover-movies.vercel.app/">
+        MovieFlix - Serverles Movie Info App
+    </a>
+</b>
+<div style="margin-top: 2px; ">
+  A full-stack web application that allows users to add, display, and edit movie data. It provides a sleek and responsive user interface built with Next.js (v13) and Material UI components.
+</div>
+<div align="center">
+    <a href="https://github.com/kevincjhung/Serverless-Movie-Ratings-App" style="color: green;">
+        <ins>Click here to see the code</ins>
+    </a><br>
+    <a href="https://movieflix-discover-movies.vercel.app/" style="color: green;">
+        <ins>Click here to see the app</ins>
+    </a>
+</div><br>
 <b>
     <a href="https://www.firstmaps.online/">
         First-Maps:
@@ -46,10 +80,7 @@ I enjoy learning new technologies and building interesting projects. <br>
     </a>
 </div><br>
 
-
 <br><br>
-
-
 
 ---
 
@@ -61,7 +92,7 @@ I enjoy learning new technologies and building interesting projects. <br>
 
 ### Front End
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![StyledComponents](https://img.shields.io/badge/Styled_components-FF4785?style=for-the-badge&logo=StyledComponents&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![StyledComponents](https://img.shields.io/badge/Styled_components-FF4785?style=for-the-badge&logo=StyledComponents&logoColor=white)
 
 ### Back End
 
@@ -77,7 +108,7 @@ I enjoy learning new technologies and building interesting projects. <br>
 
 ### Frameworks
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  
 
 ### Cloud & Hosting
 
@@ -90,4 +121,3 @@ I enjoy learning new technologies and building interesting projects. <br>
 ### Other
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-
