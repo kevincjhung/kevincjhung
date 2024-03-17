@@ -62,12 +62,6 @@ I enjoy learning new technologies and building interesting projects. <br>
     </a>
 </div><br>
 
-<b>
-    <a href="https://code-examples-app-kevincjhung.vercel.app/">
-        Code Examples Application:
-    </a>
-</b>
-
 
 <br><br>
 
