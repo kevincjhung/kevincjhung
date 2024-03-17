@@ -67,17 +67,7 @@ I enjoy learning new technologies and building interesting projects. <br>
         Code Examples Application:
     </a>
 </b>
-<div style="margin-top: 2px; margin-bottom: 5px;">
- A social media-like application that allows users to post code snippets. It is built with Next.js, Prisma with a cloud PostgreSQL database for data persistence, NextAuth for authentication and hosted on Vercel.
-</div>
-<div style="" align="center">
-    <a href="https://github.com/kevincjhung/Code_Snippets_App" style="color: green;">
-        <ins>Click here to see the code</ins>
-    </a><br>
-    <a href="https://code-examples-app-kevincjhung.vercel.app/" style="color: green;">
-        <ins>Click here to see the app</ins>
-    </a>
-</div><br>
+
 
 <br><br>
 
