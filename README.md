@@ -21,7 +21,7 @@ Hello, my name is Kevin
     <a href="https://github.com/kevincjhung" style="color: green;">
         <ins>Click here to see the code</ins>
     </a><br>
-    <p>App Deployment Coming Soon</p>
+    
 				<br>
   
 </div><br>
