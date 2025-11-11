@@ -1,7 +1,17 @@
+## About Me
 
-## About Me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+Hello — I’m **Kevin**, 
 
-Hello, my name is Kevin
+My work focuses on building reliable, business-aligned data environments that help go-to-market teams make faster, evidence-based decisions.
 
-<b>You are invited to connect with me on <a href="https://www.linkedin.com/in/kevincjhung/">LinkedIn</a></b>
+🔗 **[Connect with me on LinkedIn](https://www.linkedin.com/in/kevincjhung/)**  
 
+
+
+
+## Featured Project  
+
+🚀 **[▶︎ SaaS Revenue Analytics — View Repository](https://github.com/kevincjhung/saas-revenue-analytics)**  
+
+A fully modeled **B2B SaaS revenue data environment** that replicates how revenue teams track **ARR, NRR, pipeline health, and retention**.  
+It demonstrates the analytical and data-architecture foundations of a mature **Revenue Operations function**, implemented in **Python** and **SQL**.
